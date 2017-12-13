@@ -1,0 +1,6 @@
+In this exercise, you're going to create 2 new methods, that is :
+- getMinVal()
+- getMaxVal()
+
+getMinVal method will simply return the smallest value in the tree
+getMaxVal method will return the maximum value in the tree

@@ -1,0 +1,6 @@
+In this exercise, you're going to put a new method on your Hash Table called "retreiveAll()"
+
+This method will simply return an array of all the Hash Node in our Hash Table
+
+We want to make sure that the array returned contains all of the nodes in each of our buckets, 
+even if there's a chain of nodes present in a bucket

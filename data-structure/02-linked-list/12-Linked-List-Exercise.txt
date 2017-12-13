@@ -1,0 +1,15 @@
+For the exercise, create a new method to your Linked List class called "indexOf()"
+
+This method will take in a value and it will return ALL the indexes of that value in an array
+
+For example, there's a Linked List with value :
+
+4, 3, 6, 4
+
+We want to find all the indexes of value "4". We called indexOf(4) and it'll return
+
+[0, 3]
+
+If we call indexOf(5), it'll return
+
+[]
